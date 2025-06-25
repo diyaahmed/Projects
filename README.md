@@ -1,6 +1,6 @@
-# Mixtape - Customizable Playlist Manager
+#Customizable Playlist Manager
 
-![Mixtape Logo](CD.jpeg)
+![Logo file name](CD.jpeg)
 
 Mixtape is a web application that allows users to create and manage customizable playlists using YouTube links. Users can create, edit, share, and play their music playlists with an intuitive interface.
 
